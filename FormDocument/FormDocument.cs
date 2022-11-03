@@ -31,7 +31,12 @@ namespace FormDocument
         {
 
         }
-       
+
+        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
 
         /* private void FormDocument_Load(object sender, EventArgs e)
          {
