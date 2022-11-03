@@ -76,20 +76,9 @@ namespace EditorText
             this.LayoutMdi(MdiLayout.TileVertical);
             
         }
-
-        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
-
         private void barraDeEstadoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.statusStripBar.Visible = !this.statusStripBar.Visible;
-        }
-
-        private void toolStripStatusLabelDinamic_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

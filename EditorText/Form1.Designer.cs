@@ -147,7 +147,6 @@
             this.statusStripBar.Size = new System.Drawing.Size(800, 22);
             this.statusStripBar.TabIndex = 1;
             this.statusStripBar.Text = "statusStripBar";
-            this.statusStripBar.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.statusStrip1_ItemClicked);
             // 
             // toolStripStatusLabelOne
             // 
@@ -163,7 +162,6 @@
             this.toolStripStatusLabelDinamic.Size = new System.Drawing.Size(377, 17);
             this.toolStripStatusLabelDinamic.Spring = true;
             this.toolStripStatusLabelDinamic.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.toolStripStatusLabelDinamic.Click += new System.EventHandler(this.toolStripStatusLabelDinamic_Click);
             // 
             // verToolStripMenuItem
             // 

@@ -22,20 +22,6 @@ namespace FormDocument
             this.Close();
         }
 
-        private void richTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void edicionToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
 
 
         /* private void FormDocument_Load(object sender, EventArgs e)
